@@ -1,2 +1,2 @@
 # INMATE-INTAKE
-Prototype inmate intake MVC application.
+Prototype inmate intake Angular application.
